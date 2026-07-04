@@ -1,6 +1,5 @@
 # Financial RAG Challenge — OfficeQA / U.S. Treasury Bulletins
-
-RAG system over U.S. Treasury Bulletins (2022–2025), built with a **Baseline**
+RAG system over U.S. Treasury Bulletins (2010–2015, a 6-year window), built with a **Baseline**
 (naive chunking, no metadata filtering) and an **Engineered** version
 (token-aware chunking + Year/Month metadata filtering), evaluated on both
 Retriever metrics (Hit Rate@5, MRR, Recall) and Generator metrics
