@@ -1,0 +1,7 @@
+huggingface_hub>=0.24
+pandas>=2.0
+chromadb>=0.5
+sentence-transformers>=3.0
+tiktoken>=0.7
+anthropic>=0.34
+tqdm>=4.66
